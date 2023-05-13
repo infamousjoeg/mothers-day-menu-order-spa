@@ -1,0 +1,22 @@
+{
+    "short_name": "MothersDayMenu",
+    "name": "Mother's Day Menu Order Form",
+    "description": "A single-page application for ordering from a Mother's Day menu",
+    "icons": [
+      {
+        "src": "assets/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "assets/android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffebee",
+    "theme_color": "#e91e63"
+  }
+  
